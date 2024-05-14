@@ -644,6 +644,8 @@ QBShared.Items = {
     ['egochaser'] 				= {['name'] = 'egochaser', 			 	  	['label'] = 'Egochaser', 			['weight'] = 380, 		['type'] = 'item', 		['image'] = 'egochaser.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = 'A Egochaser chocolate bar!'},
 	
 	['app_tablet'] = { ['name'] = 'app_tablet', ['label'] = 'Tablet', ['weight'] = 1000, ['type'] = 'item', ['image'] = 'app_tablet.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'You can install different applications onto this.' },
+	['usb_racing'] = { ['name'] = 'usb_racing', ['label'] = 'Strange USB',['weight'] = 50, ['type'] = 'item', ['image'] = 'racer_usb.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'An USB stick with a racing program installed onto it.' },
+	
 	
 	-- Burgershot Items
 	["burger-bleeder"] 				 = {["name"] = "burger-bleeder", 			 	["label"] = "Bleeder", 					["weight"] = 250, 		["type"] = "item", 		["image"] = "bs_the-bleeder.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "."},
